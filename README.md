@@ -8,7 +8,7 @@
 
 12:15 OpenShift Virtualisation 
 
-13:00 HandsOn: Create a VM in OCP-V ->
+13:00 HandsOn: Create a VM in OCP-V ->  https://catalog.demo.redhat.com/workshop/vf9edu
 
 13:30 BREAK
 
